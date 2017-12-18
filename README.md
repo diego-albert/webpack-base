@@ -4,6 +4,7 @@ Basic project setup with webpack.
 
 ## Build Setup
 
+``` bash
 # install dependencies
 npm install
 
@@ -12,3 +13,4 @@ npm run serve
 
 # build for production with minification
 npm run build
+```
